@@ -12,4 +12,4 @@ programa.
 4. Siga al pie de la letra cada instruccion que tambien estan integrados dentro del programa
 
 
-Sea libre de Uuar el programa y el codigo si lo desea :)
+Sea libre de usar el programa y el codigo si lo desea OwO
